@@ -1,4 +1,4 @@
-package com.practice;
+package com.practice.graphs.bfs;
 
 public class TreeNode {
     int val;

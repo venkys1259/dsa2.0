@@ -1,4 +1,4 @@
-package com.practice;
+package com.practice.graphs.bfs;
 
 public class TreeUtils {
     public static TreeNode arrayToTree(Integer[] arr,int i){
